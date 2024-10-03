@@ -52,7 +52,7 @@ Lesson 3 will cover installing Anaconda for Jupyter notebooks. You can also pre-
     - Downloading and Installing Jupyter Notebooks
     - Jupyter Notebook UI Walkthrough
 
-4. [Variables](/4%20Variables/)
+4. [Variables](/04%20Variables/)
 
     - Variables Intro
     - Variables + Expressions
@@ -63,7 +63,7 @@ Lesson 3 will cover installing Anaconda for Jupyter notebooks. You can also pre-
     - Practice Slicing Variable
     - Variable Thought Experiment
 
-5. [Data Types](/5%20Data%20Types/)
+5. [Data Types](/05%20Data%20Types/)
 
     - Data Types Introduction
     - Numbers
@@ -75,7 +75,7 @@ Lesson 3 will cover installing Anaconda for Jupyter notebooks. You can also pre-
     - Dictionaries
     - Converting Data Types
 
-6. [Operators](/6%20Operators/)
+6. [Operators](/06%20Operators/)
 
     - Operators Introduction
     - Comparison Operators
@@ -87,7 +87,7 @@ Lesson 3 will cover installing Anaconda for Jupyter notebooks. You can also pre-
     - Assignment Operators
     - Identity and Bitwise Operators
 
-7. [Statements](/7%20Statements/)
+7. [Statements](/07%20Statements/)
 
     - Statements Introduction
     - If Else Statements
@@ -103,9 +103,9 @@ Lesson 3 will cover installing Anaconda for Jupyter notebooks. You can also pre-
     - List Comprehension
     - Number Checker
 
-8. [Project 1 - Unit Of Measurement Converter](/8%20Project%201/)
+8. [Project 1 - Unit Of Measurement Converter](/08%20Project%201/)
 
-9. [Functions](/9%20Functions/)
+9. [Functions](/09%20Functions/)
 
     - Functions Introduction
     - First Function + Passing Arguments
